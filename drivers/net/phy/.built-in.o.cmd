@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/net/phy/built-in.o drivers/net/phy/libphy.o drivers/net/phy/marvell.o drivers/net/phy/micrel.o 

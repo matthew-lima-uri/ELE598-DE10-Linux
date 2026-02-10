@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/g_mass_storage.o := /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/usb/gadget/legacy/g_mass_storage.o drivers/usb/gadget/legacy/mass_storage.o 

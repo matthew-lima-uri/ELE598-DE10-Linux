@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/stmicro/stmmac/stmmac-platform.o := /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/net/ethernet/stmicro/stmmac/stmmac-platform.o drivers/net/ethernet/stmicro/stmmac/stmmac_platform.o 

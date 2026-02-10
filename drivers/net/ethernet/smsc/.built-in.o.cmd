@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/smsc/built-in.o :=  rm -f drivers/net/ethernet/smsc/built-in.o; /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ar rcsD drivers/net/ethernet/smsc/built-in.o

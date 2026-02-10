@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/mediatek/mt7601u/mt7601u.ko := /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/mediatek/mt7601u/mt7601u.ko drivers/net/wireless/mediatek/mt7601u/mt7601u.o drivers/net/wireless/mediatek/mt7601u/mt7601u.mod.o

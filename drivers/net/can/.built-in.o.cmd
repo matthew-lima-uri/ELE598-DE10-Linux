@@ -1,0 +1,1 @@
+cmd_drivers/net/can/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/net/can/built-in.o drivers/net/can/can-dev.o drivers/net/can/spi/built-in.o drivers/net/can/usb/built-in.o drivers/net/can/softing/built-in.o drivers/net/can/c_can/built-in.o 

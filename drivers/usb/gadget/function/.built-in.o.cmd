@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/function/built-in.o :=  rm -f drivers/usb/gadget/function/built-in.o; /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ar rcsD drivers/usb/gadget/function/built-in.o

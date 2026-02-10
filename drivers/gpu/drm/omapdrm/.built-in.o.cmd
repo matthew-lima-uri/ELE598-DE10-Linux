@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/omapdrm/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/gpu/drm/omapdrm/built-in.o drivers/gpu/drm/omapdrm/dss/built-in.o drivers/gpu/drm/omapdrm/displays/built-in.o 

@@ -1,0 +1,11 @@
+kernel/drivers/net/mii.ko
+kernel/drivers/net/can/can-dev.ko
+kernel/drivers/net/can/c_can/c_can.ko
+kernel/drivers/net/can/c_can/c_can_platform.ko
+kernel/drivers/net/ethernet/stmicro/stmmac/stmmac.ko
+kernel/drivers/net/ethernet/stmicro/stmmac/stmmac-platform.ko
+kernel/drivers/net/ethernet/stmicro/stmmac/dwmac-socfpga.ko
+kernel/drivers/net/ethernet/stmicro/stmmac/dwmac-generic.ko
+kernel/drivers/net/phy/libphy.ko
+kernel/drivers/net/phy/marvell.ko
+kernel/drivers/net/phy/micrel.ko
