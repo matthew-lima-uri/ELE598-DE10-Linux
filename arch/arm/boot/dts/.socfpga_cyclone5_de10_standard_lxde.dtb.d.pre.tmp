@@ -1,0 +1,2 @@
+socfpga_cyclone5_de10_standard_lxde.o: \
+ arch/arm/boot/dts/socfpga_cyclone5_de10_standard_lxde.dts

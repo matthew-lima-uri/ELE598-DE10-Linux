@@ -1,0 +1,5 @@
+socfpga_cyclone5_mcvevk.o: arch/arm/boot/dts/socfpga_cyclone5_mcvevk.dts \
+ arch/arm/boot/dts/socfpga_cyclone5_mcv.dtsi \
+ arch/arm/boot/dts/socfpga_cyclone5.dtsi arch/arm/boot/dts/socfpga.dtsi \
+ arch/arm/boot/dts/skeleton.dtsi \
+ arch/arm/boot/dts/include/dt-bindings/reset/altr,rst-mgr.h

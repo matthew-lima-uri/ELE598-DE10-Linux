@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-socfpga/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o arch/arm/mach-socfpga/built-in.o arch/arm/mach-socfpga/socfpga.o arch/arm/mach-socfpga/headsmp.o arch/arm/mach-socfpga/platsmp.o 

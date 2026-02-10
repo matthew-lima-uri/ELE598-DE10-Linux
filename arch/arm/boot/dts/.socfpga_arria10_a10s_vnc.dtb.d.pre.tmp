@@ -1,0 +1,7 @@
+socfpga_arria10_a10s_vnc.o: \
+ arch/arm/boot/dts/socfpga_arria10_a10s_vnc.dts \
+ arch/arm/boot/dts/socfpga_arria10_socdk.dtsi \
+ arch/arm/boot/dts/socfpga_arria10.dtsi arch/arm/boot/dts/skeleton.dtsi \
+ arch/arm/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ arch/arm/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm/boot/dts/include/dt-bindings/reset/altr,rst-mgr-a10.h
