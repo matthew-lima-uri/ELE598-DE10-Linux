@@ -1,0 +1,1 @@
+cmd_drivers/mtd/spi-nor/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/mtd/spi-nor/built-in.o drivers/mtd/spi-nor/spi-nor.o drivers/mtd/spi-nor/cadence-quadspi.o 

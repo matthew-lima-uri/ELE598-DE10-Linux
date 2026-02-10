@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/hwmon/built-in.o drivers/hwmon/hwmon.o drivers/hwmon/a10sycon-hwmon.o drivers/hwmon/max1619.o drivers/hwmon/pmbus/built-in.o 

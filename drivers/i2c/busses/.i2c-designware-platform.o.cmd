@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/i2c-designware-platform.o := /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/i2c/busses/i2c-designware-platform.o drivers/i2c/busses/i2c-designware-platdrv.o 

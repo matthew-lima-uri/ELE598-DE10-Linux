@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/pmbus/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/hwmon/pmbus/built-in.o drivers/hwmon/pmbus/pmbus_core.o drivers/hwmon/pmbus/pmbus.o drivers/hwmon/pmbus/ltc2978.o 

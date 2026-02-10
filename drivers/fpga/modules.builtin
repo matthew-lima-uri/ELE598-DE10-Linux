@@ -1,0 +1,3 @@
+kernel/drivers/fpga/fpga-mgr.ko
+kernel/drivers/fpga/socfpga.ko
+kernel/drivers/fpga/socfpga-a10.ko

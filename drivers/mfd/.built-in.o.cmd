@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/mfd/built-in.o drivers/mfd/mfd-core.o drivers/mfd/syscon.o drivers/mfd/a10sycon.o 

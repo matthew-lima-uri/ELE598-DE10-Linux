@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/bluetooth/built-in.o drivers/bluetooth/bfusb.o drivers/bluetooth/btusb.o drivers/bluetooth/btintel.o drivers/bluetooth/btbcm.o drivers/bluetooth/btrtl.o 

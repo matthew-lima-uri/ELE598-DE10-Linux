@@ -1,0 +1,1 @@
+cmd_drivers/misc/altera_sysid.ko := /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/misc/altera_sysid.ko drivers/misc/altera_sysid.o drivers/misc/altera_sysid.mod.o

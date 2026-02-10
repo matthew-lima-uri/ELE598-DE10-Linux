@@ -1,0 +1,1 @@
+cmd_drivers/input/serio/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/input/serio/built-in.o drivers/input/serio/serio.o drivers/input/serio/ambakmi.o drivers/input/serio/libps2.o 

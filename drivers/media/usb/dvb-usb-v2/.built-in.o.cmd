@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb-v2/built-in.o :=  rm -f drivers/media/usb/dvb-usb-v2/built-in.o; /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ar rcsD drivers/media/usb/dvb-usb-v2/built-in.o

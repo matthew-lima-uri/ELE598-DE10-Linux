@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/omap2/omapfb/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/video/fbdev/omap2/omapfb/built-in.o drivers/video/fbdev/omap2/omapfb/dss/built-in.o drivers/video/fbdev/omap2/omapfb/displays/built-in.o 

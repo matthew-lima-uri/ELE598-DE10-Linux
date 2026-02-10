@@ -1,0 +1,1 @@
+cmd_drivers/clocksource/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/clocksource/built-in.o drivers/clocksource/clksrc-probe.o drivers/clocksource/dw_apb_timer.o drivers/clocksource/dw_apb_timer_of.o drivers/clocksource/dummy_timer.o 

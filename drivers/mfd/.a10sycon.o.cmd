@@ -1,0 +1,1 @@
+cmd_drivers/mfd/a10sycon.o := /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/mfd/a10sycon.o drivers/mfd/a10sycon-core.o drivers/mfd/a10sycon-spi.o drivers/mfd/a10sycon-irq.o 

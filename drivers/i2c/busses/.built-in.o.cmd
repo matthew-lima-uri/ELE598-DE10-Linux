@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o drivers/i2c/busses/built-in.o drivers/i2c/busses/i2c-designware-core.o drivers/i2c/busses/i2c-designware-platform.o 

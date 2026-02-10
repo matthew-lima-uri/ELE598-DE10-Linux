@@ -1,0 +1,4 @@
+kernel/drivers/gpio/gpio-generic.ko
+kernel/drivers/gpio/gpio-a10sycon.ko
+kernel/drivers/gpio/gpio-altera.ko
+kernel/drivers/gpio/gpio-dwapb.ko
