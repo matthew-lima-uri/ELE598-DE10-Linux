@@ -1,0 +1,1 @@
+cmd_ipc/built-in.o :=  /home/frothiestma2/Projects/gcc-linux-de10/bin/arm-linux-gnueabihf-ld -EL   -r -o ipc/built-in.o ipc/util.o ipc/msgutil.o ipc/msg.o ipc/sem.o ipc/shm.o ipc/syscall.o ipc/ipc_sysctl.o ipc/namespace.o 

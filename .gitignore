@@ -1,0 +1,7 @@
+*.o
+*.ko
+vmlinux
+zImage
+uImage
+System.map
+/out/
